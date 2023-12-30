@@ -1,0 +1,1 @@
+this is a resume screening web app, which uses the NLP techniques, and train on the data taken from kaggle of resumes, it has been tried to train on various models and achieved the best accuracy oh KNearestNeighbours(99%)
